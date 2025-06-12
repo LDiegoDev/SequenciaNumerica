@@ -1,0 +1,6 @@
+@SequenciaNumerica.Api_HostAddress = http://localhost:5278
+
+GET {{SequenciaNumerica.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
